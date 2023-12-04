@@ -1,3 +1,3 @@
-# Examen de SGE
-*miguel* *acedo*
-Tendré suerte
+# Prueba de SGE
+*acedo* *acedo*
+Soy programador
